@@ -1,8 +1,6 @@
-# Simple NPC scene
+# Metaverse demo
 
-A simple scene that uses the NPC toolkit library to create NPCs that follow dialogs that can branch out into conversation trees. NPCs can also walk around the scene.
-
-See the documentation for the [NPC Toolkit library](https://github.com/decentraland-scenes/dcl-npc-toolkit)
+A basic fun metaverse demo that avatars can play in to see how they behave
 
 ## Try it out
 
@@ -16,7 +14,7 @@ npm install @dcl/sdk@next
 
 **Previewing the scene**
 
-1. Download this full repository from [sdk7-goerli-plaza](https://github.com/decentraland/sdk7-goerli-plaza/tree/main), including this and several other example scenes on SDK7.
+1. Download this full repository 
 
 2. Install the [Decentraland Editor](https://docs.decentraland.org/creator/development-guide/sdk7/editor/)
 
@@ -29,8 +27,4 @@ Alternatively, you can use the command line. Inside this scene root directory ru
 ```
 npm run start
 ```
-
-## Copyright info
-
-This scene is protected with a standard Apache 2 license. See the terms and conditions in the [LICENSE](/LICENSE) file.
 
